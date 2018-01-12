@@ -1,0 +1,1548 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebTest Name="WebTest1" Id="03380a84-8001-40fa-9488-4cd83a71497a" Owner="" Priority="2147483647" Enabled="True" CssProjectStructure="" CssIteration="" Timeout="0" WorkItemIds="" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010" Description="" CredentialUserName="" CredentialPassword="" PreAuthenticate="True" Proxy="default" StopOnError="False" RecordedResultFile="WebTest1.703e504f-6f3c-4e70-b4ac-3dd0fd043a61.rec.webtestresult" ResultsLocale="">
+  <Items>
+    <Request Method="GET" Guid="94e47fb8-7581-47b5-9165-5a2e27f36a62" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="w" RecordedValue="w" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="32765" RecordedValue="32765" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="20" RecordedValue="20" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="160" RecordedValue="160" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS02" RecordedValue="IESS02" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-GB" RecordedValue="en-GB" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="c655db17-e140-4222-8065-0fdc7f62ecd3" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="www" RecordedValue="www" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="32765" RecordedValue="32765" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="20" RecordedValue="20" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="160" RecordedValue="160" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS02" RecordedValue="IESS02" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-GB" RecordedValue="en-GB" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="26fecd51-c2b9-442a-a08f-b9577fe73670" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="www." RecordedValue="www." CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="32765" RecordedValue="32765" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="20" RecordedValue="20" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="160" RecordedValue="160" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS02" RecordedValue="IESS02" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-GB" RecordedValue="en-GB" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="d346ace1-e614-45eb-bf95-231c7afac54d" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="www.wa" RecordedValue="www.wa" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="32765" RecordedValue="32765" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="20" RecordedValue="20" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="160" RecordedValue="160" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS02" RecordedValue="IESS02" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-GB" RecordedValue="en-GB" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="55de1878-a3cf-421d-a5f7-f257942c08f8" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="4" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="www.wa" RecordedValue="www.wa" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="32765" RecordedValue="32765" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="20" RecordedValue="20" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="160" RecordedValue="160" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS02" RecordedValue="IESS02" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-GB" RecordedValue="en-GB" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="23dd7717-e60d-44d9-ab9e-db0ea26f5924" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="www.w" RecordedValue="www.w" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="32765" RecordedValue="32765" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="20" RecordedValue="20" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="160" RecordedValue="160" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS02" RecordedValue="IESS02" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-GB" RecordedValue="en-GB" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="1f8424ba-3c33-4c23-8e0b-60ed67fa4ca0" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="www." RecordedValue="www." CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="32765" RecordedValue="32765" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="20" RecordedValue="20" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="160" RecordedValue="160" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS02" RecordedValue="IESS02" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-GB" RecordedValue="en-GB" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="9010b26c-bb38-42bd-8267-2870a12e5229" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="www.qa" RecordedValue="www.qa" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="32765" RecordedValue="32765" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="20" RecordedValue="20" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="160" RecordedValue="160" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS02" RecordedValue="IESS02" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-GB" RecordedValue="en-GB" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="c9c5d2a6-684e-4d6e-86bf-6fe843fc0b80" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="www.qa." RecordedValue="www.qa." CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="32765" RecordedValue="32765" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="20" RecordedValue="20" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="160" RecordedValue="160" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS02" RecordedValue="IESS02" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-GB" RecordedValue="en-GB" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="73ff80d3-6c3d-410c-b1fc-469f6878e2c0" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="www.qa.c" RecordedValue="www.qa.c" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="32765" RecordedValue="32765" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="20" RecordedValue="20" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="160" RecordedValue="160" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS02" RecordedValue="IESS02" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-GB" RecordedValue="en-GB" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="f372f05f-201d-4a3b-8d4b-a3410dd4c877" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="www.qa.co" RecordedValue="www.qa.co" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="32765" RecordedValue="32765" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="20" RecordedValue="20" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="160" RecordedValue="160" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS02" RecordedValue="IESS02" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-GB" RecordedValue="en-GB" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="4f57330c-42fa-4511-9c13-bea3afa714a6" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="www.qa.com" RecordedValue="www.qa.com" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="32765" RecordedValue="32765" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="20" RecordedValue="20" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="160" RecordedValue="160" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS02" RecordedValue="IESS02" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-GB" RecordedValue="en-GB" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="dff07bf4-06b9-488d-b7ac-95ed6590e220" Version="1.1" Url="https://www.qa.com/" ThinkTime="2" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <DependentRequests>
+        <Request Method="GET" Guid="76e9a0cf-6272-4dc5-82fa-a5c577225592" Version="1.1" Url="https://fonts.googleapis.com/css" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="family" Value="Open+Sans:300,400,600,700" RecordedValue="Open+Sans:300,400,600,700" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="a76de297-d2bc-4ef1-b299-e5b56b972029" Version="1.1" Url="https://use.typekit.net/af/157baa/000000000000000000011c34/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="n7" RecordedValue="n7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="76299968-5921-4fb4-8ab8-b0c93e6e84fa" Version="1.1" Url="https://use.typekit.net/af/fb1aad/000000000000000000011c35/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="i7" RecordedValue="i7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="212c6017-d945-4af6-a953-8ab9e270dbdc" Version="1.1" Url="https://use.typekit.net/af/0c4c40/000000000000000000011c38/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="i4" RecordedValue="i4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="05a0815b-2a88-4c09-8ad2-e78918ffd598" Version="1.1" Url="https://use.typekit.net/af/dba85d/000000000000000000011c39/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="n3" RecordedValue="n3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="91eb9888-e848-4185-80e8-06cf59a9e25b" Version="1.1" Url="https://use.typekit.net/af/fa5bc1/000000000000000000011c3b/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="n4" RecordedValue="n4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="b43e5453-3178-4809-aa66-fd9f9e66cae9" Version="1.1" Url="https://fonts.gstatic.com/s/opensans/v15/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+        </Request>
+        <Request Method="GET" Guid="f348eea5-d665-4876-8a0b-e2eaa23f3669" Version="1.1" Url="https://fonts.gstatic.com/s/opensans/v15/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+        </Request>
+        <Request Method="GET" Guid="84179160-18f4-4da1-9c33-b1b40e51164b" Version="1.1" Url="https://fonts.gstatic.com/s/opensans/v15/MTP_ySUJH_bn48VBG8sNSnhCUOGz7vYGh680lGh-uXM.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+        </Request>
+        <Request Method="GET" Guid="c41342c5-daad-42d6-bef7-73452da0a610" Version="1.1" Url="https://fonts.gstatic.com/s/opensans/v15/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+        </Request>
+        <Request Method="GET" Guid="2bcfbc5f-8a61-4cdb-be75-dea0d82d215f" Version="1.1" Url="https://www.qa.com/_styles/fonts/qa-icons/qa-icons.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="bafd4e28-2172-4dc2-8f51-f81931417fa1" Version="1.1" Url="https://use.typekit.net/af/1c2b61/0000000000000000000158cf/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="n7" RecordedValue="n7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="9f8c1114-113e-4ada-bd19-c929cfe9e949" Version="1.1" Url="https://use.typekit.net/af/e26ca2/0000000000000000000158d1/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="n8" RecordedValue="n8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="66bc38a2-7778-4b69-a778-739d124894a3" Version="1.1" Url="https://use.typekit.net/af/3c3978/0000000000000000000158d7/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="n4" RecordedValue="n4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="62a1b538-6f7e-4844-933a-6bac39bc78ec" Version="1.1" Url="https://use.typekit.net/af/24d38c/0000000000000000000158d8/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="i4" RecordedValue="i4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="392cd740-74cf-43ba-a4dc-f5824af44719" Version="1.1" Url="https://v2.zopim.com/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="https://v2.zopim.com/bin/v/widget_v2.229.js" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="" Value="4YiyH9cKzvJldkNgMHSPpBXYeQR6elW3" RecordedValue="4YiyH9cKzvJldkNgMHSPpBXYeQR6elW3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="907c77aa-1e6f-4a1d-99dc-8ef57d0002b1" Version="1.1" Url="https://www.google-analytics.com/gtm/js" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="id" Value="GTM-MZ6G8WG" RecordedValue="GTM-MZ6G8WG" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="cid" Value="956889888.1515489418" RecordedValue="956889888.1515489418" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="2d959c54-1513-4c5a-8b4f-a5b06952f580" Version="1.1" Url="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/951804088/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="random" Value="1515498767340" RecordedValue="1515498767340" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="cv" Value="8" RecordedValue="8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fst" Value="1515498767340" RecordedValue="1515498767340" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="num" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="guid" Value="ON" RecordedValue="ON" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="eid" Value="659238991" RecordedValue="659238991" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_h" Value="1080" RecordedValue="1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_w" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_ah" Value="1040" RecordedValue="1040" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_aw" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_cd" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_his" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_tz" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_java" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_nplug" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_nmime" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="gtm" Value="Gbe" RecordedValue="Gbe" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="frm" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="url" Value="https%3A%2F%2Fwww.qa.com%2F" RecordedValue="https%3A%2F%2Fwww.qa.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tiba" Value="IT%20Training%20%7C%20Project%20Management%20Training%20%7C%20Business%20Skills%20Training%20%7C%20QA" RecordedValue="IT%20Training%20%7C%20Project%20Management%20Training%20%7C%20Business%20Skills%20Training%20%7C%20QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="async" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="rfmt" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fmt" Value="4" RecordedValue="4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="3e8443dc-6e35-4818-a196-95daf5f79bc0" Version="1.1" Url="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/953727080/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="random" Value="1515498767365" RecordedValue="1515498767365" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="cv" Value="8" RecordedValue="8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fst" Value="1515498767365" RecordedValue="1515498767365" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="num" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="guid" Value="ON" RecordedValue="ON" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="eid" Value="659238991" RecordedValue="659238991" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_h" Value="1080" RecordedValue="1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_w" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_ah" Value="1040" RecordedValue="1040" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_aw" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_cd" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_his" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_tz" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_java" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_nplug" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_nmime" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="gtm" Value="Gbe" RecordedValue="Gbe" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="frm" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="url" Value="https%3A%2F%2Fwww.qa.com%2F" RecordedValue="https%3A%2F%2Fwww.qa.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tiba" Value="IT%20Training%20%7C%20Project%20Management%20Training%20%7C%20Business%20Skills%20Training%20%7C%20QA" RecordedValue="IT%20Training%20%7C%20Project%20Management%20Training%20%7C%20Business%20Skills%20Training%20%7C%20QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="async" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="rfmt" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fmt" Value="4" RecordedValue="4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="baee025a-c119-4287-9d76-7f60195ea36e" Version="1.1" Url="https://bat.bing.com/action/0" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="ti" Value="4064827" RecordedValue="4064827" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Ver" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="mid" Value="d930aa62-a590-5766-5890-e3b5a96b0686" RecordedValue="d930aa62-a590-5766-5890-e3b5a96b0686" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="evt" Value="pageLoad" RecordedValue="pageLoad" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="sid" Value="0dcd84d0-0" RecordedValue="0dcd84d0-0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="pi" Value="1001431019" RecordedValue="1001431019" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="lg" Value="en-GB" RecordedValue="en-GB" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="sw" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="sh" Value="1080" RecordedValue="1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="sc" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tl" Value="IT+Training+|+Project+Management+Training+|+Business+Skills+Training+|+QA" RecordedValue="IT+Training+|+Project+Management+Training+|+Business+Skills+Training+|+QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="p" Value="https%3A%2F%2Fwww.qa.com%2F" RecordedValue="https%3A%2F%2Fwww.qa.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="r" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="msclkid" Value="N" RecordedValue="N" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="rn" Value="750086" RecordedValue="750086" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="d9fed6bd-a259-475c-aede-fbea5813ebc7" Version="1.1" Url="https://connect.facebook.net/signals/config/1238184609538906" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="v" Value="2.8.7" RecordedValue="2.8.7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="r" Value="stable" RecordedValue="stable" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="bf91311e-16c6-4134-a0b2-0d6ffd0565d2" Version="1.1" Url="https://analytics.twitter.com/i/adsct" ThinkTime="4" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="p_id" Value="Twitter" RecordedValue="Twitter" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="p_user_id" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="txn_id" Value="nuwwu" RecordedValue="nuwwu" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tw_sale_amount" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tw_order_quantity" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tw_iframe_status" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tpx_cb" Value="twttr.conversion.loadPixels" RecordedValue="twttr.conversion.loadPixels" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="cache_bust" Value="0.7721221348168477" RecordedValue="0.7721221348168477" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="91fcbc82-c122-4bd8-8c96-ad06d43e5a02" Version="1.1" Url="https://www.googleadservices.com/pagead/conversion/951804088/wcm" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="cl" Value="MArUCLOimlwQuMHtxQM" RecordedValue="MArUCLOimlwQuMHtxQM" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fb" Value="4401753898320" RecordedValue="4401753898320" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="callback" Value="_callbacks____215pvzcv0" RecordedValue="_callbacks____215pvzcv0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="c665e67d-3817-4741-823e-d0a41c7e1da3" Version="1.1" Url="https://www.googleadservices.com/pagead/conversion/951804088/wcm" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="cl" Value="MArUCLOimlwQuMHtxQM" RecordedValue="MArUCLOimlwQuMHtxQM" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fb" Value="012846796" RecordedValue="012846796" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="callback" Value="_callbacks____3ln9v70lv" RecordedValue="_callbacks____3ln9v70lv" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="ee335675-3860-42f2-87bf-cf07d570784c" Version="1.1" Url="https://www.googleadservices.com/pagead/conversion/951804088/wcm" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="cl" Value="MArUCLOimlwQuMHtxQM" RecordedValue="MArUCLOimlwQuMHtxQM" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fb" Value="08457573888" RecordedValue="08457573888" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="callback" Value="_callbacks____1tt3dz1mt" RecordedValue="_callbacks____1tt3dz1mt" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="a828cbd4-edde-453d-bba8-5000a5a38303" Version="1.1" Url="https://www.google.co.uk/pagead/attribution/wcm" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="cl" Value="MArUCLOimlwQuMHtxQM" RecordedValue="MArUCLOimlwQuMHtxQM" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fb" Value="012846796" RecordedValue="012846796" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="use_ssct" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="callback" Value="_callbacks____4qsthm59b" RecordedValue="_callbacks____4qsthm59b" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="3e6721da-784e-4d1a-b561-dee51d72bc20" Version="1.1" Url="https://www.google.co.uk/pagead/attribution/wcm" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="cl" Value="MArUCLOimlwQuMHtxQM" RecordedValue="MArUCLOimlwQuMHtxQM" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fb" Value="4401753898320" RecordedValue="4401753898320" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="use_ssct" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="callback" Value="_callbacks____5tqtmfjuk" RecordedValue="_callbacks____5tqtmfjuk" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="5752bb81-c9bf-4db9-94c1-7cbb60bd5fed" Version="1.1" Url="https://www.google.co.uk/pagead/attribution/wcm" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="cl" Value="MArUCLOimlwQuMHtxQM" RecordedValue="MArUCLOimlwQuMHtxQM" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fb" Value="08457573888" RecordedValue="08457573888" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="use_ssct" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="callback" Value="_callbacks____6buzk1d5m" RecordedValue="_callbacks____6buzk1d5m" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="4896e7e4-909f-4305-9294-bec9e3df8936" Version="1.1" Url="https://ict.infinity-tracking.net/track" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="igrp" Value="1291" RecordedValue="1291" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="vref" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="href" Value="https%3A%2F%2Fwww.qa.com%2F" RecordedValue="https%3A%2F%2Fwww.qa.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="d[master]" Value="vid~34af7201-0bed-4b71-a198-0c639061838e" RecordedValue="vid~34af7201-0bed-4b71-a198-0c639061838e" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="d[il1291]" Value="rlt~1515504973~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" RecordedValue="rlt~1515504973~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="d[in1291]" Value="rlt~1515504973~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" RecordedValue="rlt~1515504973~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="c_gua_cid" Value="956889888.1515489418" RecordedValue="956889888.1515489418" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="res" Value="1920x1080" RecordedValue="1920x1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="t" Value="IT%20Training%20%7C%20Project%20Management%20Training%20%7C%20Business%20Skills%20Training%20%7C%20QA" RecordedValue="IT%20Training%20%7C%20Project%20Management%20Training%20%7C%20Business%20Skills%20Training%20%7C%20QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ua" Value="39107103" RecordedValue="39107103" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="autoDiscovery" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ts" Value="1515498768" RecordedValue="1515498768" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="ba902bae-c34f-411d-868e-9a92e42285dc" Version="1.1" Url="https://ict.infinity-tracking.net/allocate" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="igrp" Value="1291" RecordedValue="1291" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ictvid" Value="34af7201-0bed-4b71-a198-0c639061838e" RecordedValue="34af7201-0bed-4b71-a198-0c639061838e" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="vref" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="href" Value="https%3A%2F%2Fwww.qa.com%2F" RecordedValue="https%3A%2F%2Fwww.qa.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="state" Value="rlt~1515506032~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" RecordedValue="rlt~1515506032~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="c_gua_cid" Value="956889888.1515489418" RecordedValue="956889888.1515489418" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="t" Value="IT%20Training%20%7C%20Project%20Management%20Training%20%7C%20Business%20Skills%20Training%20%7C%20QA" RecordedValue="IT%20Training%20%7C%20Project%20Management%20Training%20%7C%20Business%20Skills%20Training%20%7C%20QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="res" Value="1920x1080" RecordedValue="1920x1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="nums" Value="03450747999" RecordedValue="03450747999" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ts" Value="1515498768" RecordedValue="1515498768" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+      </DependentRequests>
+    </Request>
+    <Request Method="GET" Guid="a10f1ab0-b506-42ce-9268-e5e5194e2629" Version="1.1" Url="https://vars.hotjar.com/rcj-99d43ead6bdf30da8ed5ffcb4f17100c.html" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <DependentRequests>
+        <Request Method="GET" Guid="02e1fa3c-4dc8-4760-86f6-dc6f268ad003" Version="1.1" Url="https://de18.zopim.com/s/W/ws/mYyZID5E74eKNPfx/c/1515498767583" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False" />
+      </DependentRequests>
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="0dfd641b-6908-4242-bc60-8fb57c1dfe9e" Version="1.1" Url="https://20775074p.rfihub.com/ca.html" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/" />
+      </Headers>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam2965.taboola_hm" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?taboola_hm=" />
+            <RuleParameter Name="EndsWith" Value="&quot;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+      <QueryStringParameters>
+        <QueryStringParameter Name="rfiidc" Value="1048283198239243303" RecordedValue="1048283198239243303" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rfiaid" Value="22142c14acb34c348d812e1e69fea85d" RecordedValue="22142c14acb34c348d812e1e69fea85d" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ver" Value="9" RecordedValue="9" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rb" Value="29956" RecordedValue="29956" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ca" Value="20775074" RecordedValue="20775074" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="_o" Value="29956" RecordedValue="29956" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="_t" Value="20775074" RecordedValue="20775074" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pe" Value="https%3A%2F%2Fwww.qa.com%2F" RecordedValue="https%3A%2F%2Fwww.qa.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pf" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ra" Value="8768526237398941" RecordedValue="8768526237398941" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="43127ce6-20b0-4e0a-883a-cb68fcbf5916" Version="1.1" Url="https://www.qa.com/learning" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <DependentRequests>
+        <Request Method="GET" Guid="a077f1a3-4258-43a6-89bf-59eff7a2879a" Version="1.1" Url="https://fonts.googleapis.com/css" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="family" Value="Open+Sans:300,400,600,700" RecordedValue="Open+Sans:300,400,600,700" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="9087078b-8148-4dd0-8a1b-8fa85d01c30d" Version="1.1" Url="https://use.typekit.net/af/157baa/000000000000000000011c34/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="n7" RecordedValue="n7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="ae75ca2d-04a0-4ede-86c6-84780d13ebd1" Version="1.1" Url="https://use.typekit.net/af/fb1aad/000000000000000000011c35/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="i7" RecordedValue="i7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="c1599e90-a502-4c96-bbb2-d5e54cc3f881" Version="1.1" Url="https://use.typekit.net/af/0c4c40/000000000000000000011c38/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="i4" RecordedValue="i4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="92d8fab6-7e7b-48dd-ad2d-52abdaf91590" Version="1.1" Url="https://use.typekit.net/af/dba85d/000000000000000000011c39/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="n3" RecordedValue="n3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="12929b4b-885b-4993-b3a4-a6c52fdd1ca3" Version="1.1" Url="https://use.typekit.net/af/fa5bc1/000000000000000000011c3b/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="n4" RecordedValue="n4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="c814817a-d83b-4efa-9f19-442532479356" Version="1.1" Url="https://fonts.gstatic.com/s/opensans/v15/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+        </Request>
+        <Request Method="GET" Guid="12088e57-d369-4aee-942d-c2afd42383b8" Version="1.1" Url="https://fonts.gstatic.com/s/opensans/v15/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+        </Request>
+        <Request Method="GET" Guid="458bd20e-112f-4f22-8cf4-0b0f89673047" Version="1.1" Url="https://fonts.gstatic.com/s/opensans/v15/MTP_ySUJH_bn48VBG8sNSnhCUOGz7vYGh680lGh-uXM.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+        </Request>
+        <Request Method="GET" Guid="5e113ab1-10d6-4b3e-938d-ec4e7c5d2a40" Version="1.1" Url="https://fonts.gstatic.com/s/opensans/v15/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+        </Request>
+        <Request Method="GET" Guid="7c4c3766-1280-4c96-af09-888f05d88392" Version="1.1" Url="https://www.qa.com/_styles/fonts/qa-icons/qa-icons.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="ced56602-b8ea-4089-9f57-96c5b8636665" Version="1.1" Url="https://use.typekit.net/af/1c2b61/0000000000000000000158cf/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="n7" RecordedValue="n7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="8f266d16-9313-4788-9d29-37d640d1b576" Version="1.1" Url="https://use.typekit.net/af/e26ca2/0000000000000000000158d1/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="n8" RecordedValue="n8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="1b531fb9-5ded-4006-b715-29086681ffa2" Version="1.1" Url="https://use.typekit.net/af/3c3978/0000000000000000000158d7/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="n4" RecordedValue="n4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="918484f7-fb13-417f-88c3-641a3755c183" Version="1.1" Url="https://use.typekit.net/af/24d38c/0000000000000000000158d8/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="i4" RecordedValue="i4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="4cc0654e-a4d8-445a-a124-84dceeaa31c3" Version="1.1" Url="https://v2.zopim.com/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="https://v2.zopim.com/bin/v/widget_v2.229.js" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="" Value="4YiyH9cKzvJldkNgMHSPpBXYeQR6elW3" RecordedValue="4YiyH9cKzvJldkNgMHSPpBXYeQR6elW3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="3285e69f-4c1d-441b-a152-98a39c7ac88b" Version="1.1" Url="https://www.google-analytics.com/gtm/js" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="id" Value="GTM-MZ6G8WG" RecordedValue="GTM-MZ6G8WG" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="cid" Value="956889888.1515489418" RecordedValue="956889888.1515489418" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="06275927-b346-400d-9be8-34ebcaace2bb" Version="1.1" Url="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/951804088/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="random" Value="1515498773056" RecordedValue="1515498773056" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="cv" Value="8" RecordedValue="8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fst" Value="1515498773056" RecordedValue="1515498773056" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="num" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="guid" Value="ON" RecordedValue="ON" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="eid" Value="659238991" RecordedValue="659238991" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_h" Value="1080" RecordedValue="1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_w" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_ah" Value="1040" RecordedValue="1040" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_aw" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_cd" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_his" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_tz" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_java" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_nplug" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_nmime" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="gtm" Value="Gbe" RecordedValue="Gbe" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="frm" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="url" Value="https%3A%2F%2Fwww.qa.com%2Flearning" RecordedValue="https%3A%2F%2Fwww.qa.com%2Flearning" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ref" Value="https%3A%2F%2Fwww.qa.com%2F" RecordedValue="https%3A%2F%2Fwww.qa.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tiba" Value="IT%20training%20%7C%20Project%20management%20training%20%7C%20business%20skills%20training%20%7C%20QA" RecordedValue="IT%20training%20%7C%20Project%20management%20training%20%7C%20business%20skills%20training%20%7C%20QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="async" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="rfmt" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fmt" Value="4" RecordedValue="4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="7ec15c2b-50a9-4c14-86fe-610f4745cb04" Version="1.1" Url="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/953727080/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="random" Value="1515498773059" RecordedValue="1515498773059" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="cv" Value="8" RecordedValue="8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fst" Value="1515498773059" RecordedValue="1515498773059" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="num" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="guid" Value="ON" RecordedValue="ON" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="eid" Value="659238991" RecordedValue="659238991" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_h" Value="1080" RecordedValue="1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_w" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_ah" Value="1040" RecordedValue="1040" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_aw" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_cd" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_his" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_tz" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_java" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_nplug" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_nmime" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="gtm" Value="Gbe" RecordedValue="Gbe" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="frm" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="url" Value="https%3A%2F%2Fwww.qa.com%2Flearning" RecordedValue="https%3A%2F%2Fwww.qa.com%2Flearning" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ref" Value="https%3A%2F%2Fwww.qa.com%2F" RecordedValue="https%3A%2F%2Fwww.qa.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tiba" Value="IT%20training%20%7C%20Project%20management%20training%20%7C%20business%20skills%20training%20%7C%20QA" RecordedValue="IT%20training%20%7C%20Project%20management%20training%20%7C%20business%20skills%20training%20%7C%20QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="async" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="rfmt" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fmt" Value="4" RecordedValue="4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="2ac2bbf6-df0f-4729-908f-9fddb2884fd8" Version="1.1" Url="https://bat.bing.com/action/0" ThinkTime="2" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="ti" Value="4064827" RecordedValue="4064827" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Ver" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="mid" Value="9af34a40-e373-ad5e-4cdd-52e26c4f6148" RecordedValue="9af34a40-e373-ad5e-4cdd-52e26c4f6148" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="evt" Value="pageLoad" RecordedValue="pageLoad" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="sid" Value="0dcd84d0-0" RecordedValue="0dcd84d0-0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="pi" Value="1001431019" RecordedValue="1001431019" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="lg" Value="en-GB" RecordedValue="en-GB" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="sw" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="sh" Value="1080" RecordedValue="1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="sc" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tl" Value="IT+training+|+Project+management+training+|+business+skills+training+|+QA" RecordedValue="IT+training+|+Project+management+training+|+business+skills+training+|+QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="r" Value="https%3A%2F%2Fwww.qa.com%2F" RecordedValue="https%3A%2F%2Fwww.qa.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="p" Value="https%3A%2F%2Fwww.qa.com%2Flearning" RecordedValue="https%3A%2F%2Fwww.qa.com%2Flearning" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="msclkid" Value="N" RecordedValue="N" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="rn" Value="823937" RecordedValue="823937" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="0d13980d-d437-4687-9627-e13193fa2cb3" Version="1.1" Url="https://connect.facebook.net/signals/config/1238184609538906" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="v" Value="2.8.7" RecordedValue="2.8.7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="r" Value="stable" RecordedValue="stable" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="9ab00ea4-1d6d-4401-974f-1faaa290ca71" Version="1.1" Url="https://analytics.twitter.com/i/adsct" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="p_id" Value="Twitter" RecordedValue="Twitter" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="p_user_id" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="txn_id" Value="nuwwu" RecordedValue="nuwwu" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tw_sale_amount" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tw_order_quantity" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tw_iframe_status" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tpx_cb" Value="twttr.conversion.loadPixels" RecordedValue="twttr.conversion.loadPixels" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="cache_bust" Value="0.3117871253156222" RecordedValue="0.3117871253156222" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="e6abd66f-eaf5-4734-ad48-94d34f0abf9b" Version="1.1" Url="https://ict.infinity-tracking.net/track" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="igrp" Value="1291" RecordedValue="1291" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="vref" Value="https%3A%2F%2Fwww.qa.com%2F" RecordedValue="https%3A%2F%2Fwww.qa.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="href" Value="https%3A%2F%2Fwww.qa.com%2Flearning" RecordedValue="https%3A%2F%2Fwww.qa.com%2Flearning" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="d[master]" Value="vid~34af7201-0bed-4b71-a198-0c639061838e" RecordedValue="vid~34af7201-0bed-4b71-a198-0c639061838e" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="d[il1291]" Value="rlt~1515506032~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" RecordedValue="rlt~1515506032~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="d[in1291]" Value="rlt~1515506032~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" RecordedValue="rlt~1515506032~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="c_gua_cid" Value="956889888.1515489418" RecordedValue="956889888.1515489418" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="res" Value="1920x1080" RecordedValue="1920x1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="t" Value="IT%20training%20%7C%20Project%20management%20training%20%7C%20business%20skills%20training%20%7C%20QA" RecordedValue="IT%20training%20%7C%20Project%20management%20training%20%7C%20business%20skills%20training%20%7C%20QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ua" Value="39107103" RecordedValue="39107103" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="autoDiscovery" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ts" Value="1515498773" RecordedValue="1515498773" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="3993b0be-9e91-4a38-85c0-536b24ad0325" Version="1.1" Url="https://ict.infinity-tracking.net/allocate" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/learning" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="igrp" Value="1291" RecordedValue="1291" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ictvid" Value="34af7201-0bed-4b71-a198-0c639061838e" RecordedValue="34af7201-0bed-4b71-a198-0c639061838e" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="vref" Value="https%3A%2F%2Fwww.qa.com%2F" RecordedValue="https%3A%2F%2Fwww.qa.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="href" Value="https%3A%2F%2Fwww.qa.com%2Flearning" RecordedValue="https%3A%2F%2Fwww.qa.com%2Flearning" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="state" Value="rlt~1515506037~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" RecordedValue="rlt~1515506037~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="c_gua_cid" Value="956889888.1515489418" RecordedValue="956889888.1515489418" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="t" Value="IT%20training%20%7C%20Project%20management%20training%20%7C%20business%20skills%20training%20%7C%20QA" RecordedValue="IT%20training%20%7C%20Project%20management%20training%20%7C%20business%20skills%20training%20%7C%20QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="res" Value="1920x1080" RecordedValue="1920x1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="nums" Value="03450747999" RecordedValue="03450747999" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ts" Value="1515498774" RecordedValue="1515498774" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+      </DependentRequests>
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="12560fca-74ad-416b-aa26-21b17f06d5b2" Version="1.1" Url="https://trc.taboola.com/sg/rocketfuel-network/1/rtb-h/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://20775074p.rfihub.com/ca.html?rfiidc=1048283198239243303&amp;rfiaid=22142c14acb34c348d812e1e69fea85d&amp;ver=9&amp;rb=29956&amp;ca=20775074&amp;_o=29956&amp;_t=20775074&amp;pe=https%3A%2F%2Fwww.qa.com%2F&amp;pf=&amp;ra=8768526237398941" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="taboola_hm" Value="1048283198239243303" RecordedValue="1048283198239243303" CorrelationBinding="{{QueryStringParam2965.taboola_hm}}" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="291137b1-78de-499d-97d8-34702d48fbd3" Version="1.1" Url="https://vars.hotjar.com/rcj-99d43ead6bdf30da8ed5ffcb4f17100c.html" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/learning" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="8da246dd-b50b-44f1-948a-642b9fb1bb22" Version="1.1" Url="https://20775074p.rfihub.com/ca.html" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/learning" />
+      </Headers>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam5976.taboola_hm" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?taboola_hm=" />
+            <RuleParameter Name="EndsWith" Value="&quot;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+      <QueryStringParameters>
+        <QueryStringParameter Name="rfiidc" Value="1048283198239243303" RecordedValue="1048283198239243303" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rfiaid" Value="d29c8b97d9014c9bbe495f3bc783a0bb" RecordedValue="d29c8b97d9014c9bbe495f3bc783a0bb" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ver" Value="9" RecordedValue="9" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rb" Value="29956" RecordedValue="29956" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ca" Value="20775074" RecordedValue="20775074" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="_o" Value="29956" RecordedValue="29956" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="_t" Value="20775074" RecordedValue="20775074" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pe" Value="https%3A%2F%2Fwww.qa.com%2Flearning" RecordedValue="https%3A%2F%2Fwww.qa.com%2Flearning" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pf" Value="https%3A%2F%2Fwww.qa.com%2F" RecordedValue="https%3A%2F%2Fwww.qa.com%2F" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ra" Value="3280691253558254" RecordedValue="3280691253558254" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="059767de-96ec-43bb-b7fc-a2768e9c9b6c" Version="1.1" Url="https://www.qa.com/training-courses/technical-it-training" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/learning" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="bf096030-8d01-438f-816b-1e0479a312fd" Version="1.1" Url="https://vars.hotjar.com/rcj-99d43ead6bdf30da8ed5ffcb4f17100c.html" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="21ce2d3e-e5fa-4a5b-881e-d6e9a06ff781" Version="1.1" Url="https://20775074p.rfihub.com/ca.html" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam8973.taboola_hm" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?taboola_hm=" />
+            <RuleParameter Name="EndsWith" Value="&quot;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+      <QueryStringParameters>
+        <QueryStringParameter Name="rfiidc" Value="1048283198239243303" RecordedValue="1048283198239243303" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rfiaid" Value="7d950befd8e743e5bc244531f4f6e7e2" RecordedValue="7d950befd8e743e5bc244531f4f6e7e2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ver" Value="9" RecordedValue="9" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rb" Value="29956" RecordedValue="29956" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ca" Value="20775074" RecordedValue="20775074" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="_o" Value="29956" RecordedValue="29956" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="_t" Value="20775074" RecordedValue="20775074" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pe" Value="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" RecordedValue="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pf" Value="https%3A%2F%2Fwww.qa.com%2Flearning" RecordedValue="https%3A%2F%2Fwww.qa.com%2Flearning" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ra" Value="4956948884734672" RecordedValue="4956948884734672" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="f6795442-e496-455a-9509-b5bf6ff0ffae" Version="1.1" Url="https://trc.taboola.com/sg/rocketfuel-network/1/rtb-h/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://20775074p.rfihub.com/ca.html?rfiidc=1048283198239243303&amp;rfiaid=d29c8b97d9014c9bbe495f3bc783a0bb&amp;ver=9&amp;rb=29956&amp;ca=20775074&amp;_o=29956&amp;_t=20775074&amp;pe=https%3A%2F%2Fwww.qa.com%2Flearning&amp;pf=https%3A%2F%2Fwww.qa.com%2F&amp;ra=3280691253558254" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="taboola_hm" Value="1048283198239243303" RecordedValue="1048283198239243303" CorrelationBinding="{{QueryStringParam5976.taboola_hm}}" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="d1142c61-b0a3-46d5-ae47-eb011cfd9e68" Version="1.1" Url="https://fonts.googleapis.com/css" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="family" Value="Open+Sans:300,400,600,700" RecordedValue="Open+Sans:300,400,600,700" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="3ced1c3b-1c33-46c0-9498-87b578fa6716" Version="1.1" Url="https://use.typekit.net/af/157baa/000000000000000000011c34/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fvd" Value="n7" RecordedValue="n7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="8af97869-ff04-4ec5-b1c1-e3169edd426a" Version="1.1" Url="https://use.typekit.net/af/fb1aad/000000000000000000011c35/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fvd" Value="i7" RecordedValue="i7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="a32d26fb-0cfe-4bac-a555-08352724b311" Version="1.1" Url="https://use.typekit.net/af/0c4c40/000000000000000000011c38/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fvd" Value="i4" RecordedValue="i4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="4550565b-0052-40aa-b7d5-ed5048bd8f19" Version="1.1" Url="https://use.typekit.net/af/dba85d/000000000000000000011c39/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fvd" Value="n3" RecordedValue="n3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="d18b83fb-cdf8-49fc-bb0b-ebe91ef024b3" Version="1.1" Url="https://use.typekit.net/af/fa5bc1/000000000000000000011c3b/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fvd" Value="n4" RecordedValue="n4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="63be8414-0edb-4811-a946-9ca6c91d45b8" Version="1.1" Url="https://fonts.gstatic.com/s/opensans/v15/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="a0873ee8-fe91-47b8-9d81-8d4e0fac54d7" Version="1.1" Url="https://fonts.gstatic.com/s/opensans/v15/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="e9845f32-2e15-4066-a7c4-e53ccbc94a94" Version="1.1" Url="https://fonts.gstatic.com/s/opensans/v15/MTP_ySUJH_bn48VBG8sNSnhCUOGz7vYGh680lGh-uXM.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="3a916b0a-63ad-47c1-8043-c11d1bcc7aae" Version="1.1" Url="https://fonts.gstatic.com/s/opensans/v15/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="1d73e2d1-33a5-4631-b540-be9cb0443cb5" Version="1.1" Url="https://www.qa.com/_styles/fonts/qa-icons/qa-icons.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="07386f7e-1f4a-4030-bda4-dfb74d1813a8" Version="1.1" Url="https://use.typekit.net/af/1c2b61/0000000000000000000158cf/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fvd" Value="n7" RecordedValue="n7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="67efd388-bd7b-473f-a936-745e41c03e9b" Version="1.1" Url="https://use.typekit.net/af/e26ca2/0000000000000000000158d1/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fvd" Value="n8" RecordedValue="n8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="fe1f99c4-b104-4857-a93b-d408c5bb5dea" Version="1.1" Url="https://use.typekit.net/af/3c3978/0000000000000000000158d7/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fvd" Value="n4" RecordedValue="n4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="eb3979ef-f23e-45f1-9ead-9a38adabd420" Version="1.1" Url="https://use.typekit.net/af/24d38c/0000000000000000000158d8/23/d" ThinkTime="2" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fvd" Value="i4" RecordedValue="i4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="e8cb7707-ace0-40f2-a465-34b82270c49c" Version="1.1" Url="https://www.qa.com/training-courses/technical-it-training/amazon" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <DependentRequests>
+        <Request Method="GET" Guid="1d2c11c0-8f2e-416b-bab5-d67ca4382f6a" Version="1.1" Url="https://fonts.googleapis.com/css" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="family" Value="Open+Sans:300,400,600,700" RecordedValue="Open+Sans:300,400,600,700" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="492d89ce-1a1c-49d4-afc5-70709bbd937d" Version="1.1" Url="https://use.typekit.net/af/157baa/000000000000000000011c34/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="n7" RecordedValue="n7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="c73dc801-df4c-408a-b365-dee8bc733644" Version="1.1" Url="https://use.typekit.net/af/fb1aad/000000000000000000011c35/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="i7" RecordedValue="i7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="0d1f682b-883e-4c8f-9be6-b3a11d315f0f" Version="1.1" Url="https://use.typekit.net/af/0c4c40/000000000000000000011c38/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="i4" RecordedValue="i4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="2d232185-f94c-4839-88f7-708e02a958d6" Version="1.1" Url="https://use.typekit.net/af/dba85d/000000000000000000011c39/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="n3" RecordedValue="n3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="1b7f3acd-652d-4dfc-8f8e-2fc93fc38fd4" Version="1.1" Url="https://use.typekit.net/af/fa5bc1/000000000000000000011c3b/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="n4" RecordedValue="n4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="43e2a233-3100-48c2-9e50-932337bf93b0" Version="1.1" Url="https://fonts.gstatic.com/s/opensans/v15/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+        </Request>
+        <Request Method="GET" Guid="73aeacfc-ae34-4bc7-9475-69d98b2149af" Version="1.1" Url="https://fonts.gstatic.com/s/opensans/v15/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+        </Request>
+        <Request Method="GET" Guid="d2701f2f-9520-4cd3-a124-91a68fc9971f" Version="1.1" Url="https://fonts.gstatic.com/s/opensans/v15/MTP_ySUJH_bn48VBG8sNSnhCUOGz7vYGh680lGh-uXM.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+        </Request>
+        <Request Method="GET" Guid="662eaef6-b6a0-416e-ad65-e7292f09b40d" Version="1.1" Url="https://fonts.gstatic.com/s/opensans/v15/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+        </Request>
+        <Request Method="GET" Guid="3fa810b5-c011-453f-a5d3-b019e73fa402" Version="1.1" Url="https://www.qa.com/_styles/fonts/qa-icons/qa-icons.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="83441e0a-5657-461f-b370-83e8f7b06ea1" Version="1.1" Url="https://use.typekit.net/af/1c2b61/0000000000000000000158cf/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="n7" RecordedValue="n7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="13fb5396-d907-4bd7-a973-393b0ea2890d" Version="1.1" Url="https://use.typekit.net/af/e26ca2/0000000000000000000158d1/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="n8" RecordedValue="n8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="e983b67b-f9fd-490f-ace5-397fc344c169" Version="1.1" Url="https://use.typekit.net/af/3c3978/0000000000000000000158d7/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="n4" RecordedValue="n4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="a6b17b46-084b-4689-b3e2-9daedf062c3e" Version="1.1" Url="https://use.typekit.net/af/24d38c/0000000000000000000158d8/23/d" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="primer" Value="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" RecordedValue="7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fvd" Value="i4" RecordedValue="i4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="v" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="06805cc0-e432-4bcf-a408-5305c2d1729b" Version="1.1" Url="https://v2.zopim.com/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="https://v2.zopim.com/bin/v/widget_v2.229.js" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="" Value="4YiyH9cKzvJldkNgMHSPpBXYeQR6elW3" RecordedValue="4YiyH9cKzvJldkNgMHSPpBXYeQR6elW3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="d5ec8169-3d79-47d9-9f24-a5449469b246" Version="1.1" Url="https://www.google-analytics.com/gtm/js" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="id" Value="GTM-MZ6G8WG" RecordedValue="GTM-MZ6G8WG" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="cid" Value="956889888.1515489418" RecordedValue="956889888.1515489418" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="d9d891bf-5880-4a8d-8f50-d49689d0ec62" Version="1.1" Url="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/951804088/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="random" Value="1515498778296" RecordedValue="1515498778296" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="cv" Value="8" RecordedValue="8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fst" Value="1515498778296" RecordedValue="1515498778296" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="num" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="guid" Value="ON" RecordedValue="ON" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="eid" Value="376635471%2C659238991" RecordedValue="376635471%2C659238991" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_h" Value="1080" RecordedValue="1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_w" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_ah" Value="1040" RecordedValue="1040" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_aw" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_cd" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_his" Value="4" RecordedValue="4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_tz" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_java" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_nplug" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_nmime" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="gtm" Value="Gbe" RecordedValue="Gbe" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="frm" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="url" Value="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training%2Famazon" RecordedValue="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training%2Famazon" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ref" Value="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" RecordedValue="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tiba" Value="Amazon%20Web%20Services%20Training%20%7C%20AWS%20Certification%20%7C%20AWS%20Courses%20%7C%20QA" RecordedValue="Amazon%20Web%20Services%20Training%20%7C%20AWS%20Certification%20%7C%20AWS%20Courses%20%7C%20QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="async" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="rfmt" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fmt" Value="4" RecordedValue="4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="fb3bf6b3-594e-4d10-8feb-6459541b680f" Version="1.1" Url="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/953727080/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="random" Value="1515498778300" RecordedValue="1515498778300" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="cv" Value="8" RecordedValue="8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fst" Value="1515498778300" RecordedValue="1515498778300" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="num" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="guid" Value="ON" RecordedValue="ON" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="eid" Value="659238991" RecordedValue="659238991" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_h" Value="1080" RecordedValue="1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_w" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_ah" Value="1040" RecordedValue="1040" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_aw" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_cd" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_his" Value="4" RecordedValue="4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_tz" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_java" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_nplug" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="u_nmime" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="gtm" Value="Gbe" RecordedValue="Gbe" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="frm" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="url" Value="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training%2Famazon" RecordedValue="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training%2Famazon" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ref" Value="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" RecordedValue="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tiba" Value="Amazon%20Web%20Services%20Training%20%7C%20AWS%20Certification%20%7C%20AWS%20Courses%20%7C%20QA" RecordedValue="Amazon%20Web%20Services%20Training%20%7C%20AWS%20Certification%20%7C%20AWS%20Courses%20%7C%20QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="async" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="rfmt" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="fmt" Value="4" RecordedValue="4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="64408cfb-e500-4161-a3e3-2b7cf60e78aa" Version="1.1" Url="https://bat.bing.com/action/0" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="ti" Value="4064827" RecordedValue="4064827" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="Ver" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="mid" Value="2ecdf43e-b8ea-02b3-cb97-42327f70d723" RecordedValue="2ecdf43e-b8ea-02b3-cb97-42327f70d723" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="evt" Value="pageLoad" RecordedValue="pageLoad" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="sid" Value="0dcd84d0-0" RecordedValue="0dcd84d0-0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="pi" Value="1001431019" RecordedValue="1001431019" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="lg" Value="en-GB" RecordedValue="en-GB" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="sw" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="sh" Value="1080" RecordedValue="1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="sc" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tl" Value="Amazon+Web+Services+Training+|+AWS+Certification+|+AWS+Courses+|+QA" RecordedValue="Amazon+Web+Services+Training+|+AWS+Certification+|+AWS+Courses+|+QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="r" Value="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" RecordedValue="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="p" Value="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training%2Famazon" RecordedValue="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training%2Famazon" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="msclkid" Value="N" RecordedValue="N" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="rn" Value="100320" RecordedValue="100320" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="281fd8af-a406-4d3c-8994-7bc8654549d2" Version="1.1" Url="https://connect.facebook.net/signals/config/1238184609538906" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="v" Value="2.8.7" RecordedValue="2.8.7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="r" Value="stable" RecordedValue="stable" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="05b42ef5-8615-447b-abbb-339bb5e36f09" Version="1.1" Url="https://analytics.twitter.com/i/adsct" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="p_id" Value="Twitter" RecordedValue="Twitter" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="p_user_id" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="txn_id" Value="nuwwu" RecordedValue="nuwwu" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tw_sale_amount" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tw_order_quantity" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tw_iframe_status" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="tpx_cb" Value="twttr.conversion.loadPixels" RecordedValue="twttr.conversion.loadPixels" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="cache_bust" Value="0.44102932959917196" RecordedValue="0.44102932959917196" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="2f41ad14-5475-4262-b433-3fbe24b55a42" Version="1.1" Url="https://ict.infinity-tracking.net/track" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="igrp" Value="1291" RecordedValue="1291" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="vref" Value="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" RecordedValue="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="href" Value="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training%2Famazon" RecordedValue="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training%2Famazon" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="d[master]" Value="vid~34af7201-0bed-4b71-a198-0c639061838e" RecordedValue="vid~34af7201-0bed-4b71-a198-0c639061838e" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="d[il1291]" Value="rlt~1515506040~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" RecordedValue="rlt~1515506040~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="d[in1291]" Value="rlt~1515506040~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" RecordedValue="rlt~1515506040~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="c_gua_cid" Value="956889888.1515489418" RecordedValue="956889888.1515489418" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="res" Value="1920x1080" RecordedValue="1920x1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="t" Value="Amazon%20Web%20Services%20Training%20%7C%20AWS%20Certification%20%7C%20AWS%20Courses%20%7C%20QA" RecordedValue="Amazon%20Web%20Services%20Training%20%7C%20AWS%20Certification%20%7C%20AWS%20Courses%20%7C%20QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ua" Value="39107103" RecordedValue="39107103" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="autoDiscovery" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ts" Value="1515498779" RecordedValue="1515498779" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="b856e684-3bb4-410b-977c-f34704b802e8" Version="1.1" Url="https://ict.infinity-tracking.net/allocate" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="igrp" Value="1291" RecordedValue="1291" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ictvid" Value="34af7201-0bed-4b71-a198-0c639061838e" RecordedValue="34af7201-0bed-4b71-a198-0c639061838e" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="vref" Value="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" RecordedValue="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="href" Value="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training%2Famazon" RecordedValue="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training%2Famazon" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="state" Value="rlt~1515506042~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" RecordedValue="rlt~1515506042~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="c_gua_cid" Value="956889888.1515489418" RecordedValue="956889888.1515489418" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="t" Value="Amazon%20Web%20Services%20Training%20%7C%20AWS%20Certification%20%7C%20AWS%20Courses%20%7C%20QA" RecordedValue="Amazon%20Web%20Services%20Training%20%7C%20AWS%20Certification%20%7C%20AWS%20Courses%20%7C%20QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="res" Value="1920x1080" RecordedValue="1920x1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="nums" Value="03450747999" RecordedValue="03450747999" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ts" Value="1515498779" RecordedValue="1515498779" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+      </DependentRequests>
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="ed2629b7-1f03-4f01-9b3a-61ed5ab0d618" Version="1.1" Url="https://v2.zopim.com/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="https://v2.zopim.com/bin/v/widget_v2.229.js" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="4YiyH9cKzvJldkNgMHSPpBXYeQR6elW3" RecordedValue="4YiyH9cKzvJldkNgMHSPpBXYeQR6elW3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="acf9496f-49f1-474b-b027-dde5fd3d13b8" Version="1.1" Url="https://www.google-analytics.com/gtm/js" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="id" Value="GTM-MZ6G8WG" RecordedValue="GTM-MZ6G8WG" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cid" Value="956889888.1515489418" RecordedValue="956889888.1515489418" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="b883b494-d06e-48c7-a39a-54c64594df85" Version="1.1" Url="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/951804088/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="random" Value="1515498775880" RecordedValue="1515498775880" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cv" Value="8" RecordedValue="8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fst" Value="1515498775880" RecordedValue="1515498775880" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="num" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="guid" Value="ON" RecordedValue="ON" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="eid" Value="659238991" RecordedValue="659238991" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_h" Value="1080" RecordedValue="1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_w" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_ah" Value="1040" RecordedValue="1040" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_aw" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_cd" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_his" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_tz" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_java" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nplug" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nmime" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="gtm" Value="Gbe" RecordedValue="Gbe" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="frm" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="url" Value="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" RecordedValue="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ref" Value="https%3A%2F%2Fwww.qa.com%2Flearning" RecordedValue="https%3A%2F%2Fwww.qa.com%2Flearning" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="tiba" Value="Technical%20IT%20Training%20Courses%20%7C%20Certifications%20%7C%20QA" RecordedValue="Technical%20IT%20Training%20Courses%20%7C%20Certifications%20%7C%20QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="async" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rfmt" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fmt" Value="4" RecordedValue="4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="f2ce3a5e-5e9d-47ec-a7cc-1cd5f869dabb" Version="1.1" Url="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/953727080/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="random" Value="1515498775883" RecordedValue="1515498775883" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cv" Value="8" RecordedValue="8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fst" Value="1515498775883" RecordedValue="1515498775883" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="num" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="guid" Value="ON" RecordedValue="ON" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="eid" Value="659238991" RecordedValue="659238991" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_h" Value="1080" RecordedValue="1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_w" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_ah" Value="1040" RecordedValue="1040" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_aw" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_cd" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_his" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_tz" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_java" Value="true" RecordedValue="true" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nplug" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="u_nmime" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="gtm" Value="Gbe" RecordedValue="Gbe" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="frm" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="url" Value="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" RecordedValue="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ref" Value="https%3A%2F%2Fwww.qa.com%2Flearning" RecordedValue="https%3A%2F%2Fwww.qa.com%2Flearning" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="tiba" Value="Technical%20IT%20Training%20Courses%20%7C%20Certifications%20%7C%20QA" RecordedValue="Technical%20IT%20Training%20Courses%20%7C%20Certifications%20%7C%20QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="async" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rfmt" Value="3" RecordedValue="3" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="fmt" Value="4" RecordedValue="4" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="16efc31a-d049-4522-9cd4-3d8d160319e4" Version="1.1" Url="https://bat.bing.com/action/0" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="ti" Value="4064827" RecordedValue="4064827" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Ver" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="mid" Value="4c252375-b782-c030-cba1-9979f11c42fa" RecordedValue="4c252375-b782-c030-cba1-9979f11c42fa" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="evt" Value="pageLoad" RecordedValue="pageLoad" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sid" Value="0dcd84d0-0" RecordedValue="0dcd84d0-0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pi" Value="1001431019" RecordedValue="1001431019" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="lg" Value="en-GB" RecordedValue="en-GB" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sw" Value="1920" RecordedValue="1920" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sh" Value="1080" RecordedValue="1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sc" Value="24" RecordedValue="24" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="tl" Value="Technical+IT+Training+Courses+|+Certifications+|+QA" RecordedValue="Technical+IT+Training+Courses+|+Certifications+|+QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="r" Value="https%3A%2F%2Fwww.qa.com%2Flearning" RecordedValue="https%3A%2F%2Fwww.qa.com%2Flearning" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="p" Value="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" RecordedValue="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="msclkid" Value="N" RecordedValue="N" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rn" Value="469464" RecordedValue="469464" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="acfeb27f-f796-416d-ad1c-f2e87551e533" Version="1.1" Url="https://connect.facebook.net/signals/config/1238184609538906" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="v" Value="2.8.7" RecordedValue="2.8.7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="r" Value="stable" RecordedValue="stable" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="9f0705d0-31ee-47a6-b5da-3beed0ca8b62" Version="1.1" Url="https://analytics.twitter.com/i/adsct" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="p_id" Value="Twitter" RecordedValue="Twitter" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="p_user_id" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="txn_id" Value="nuwwu" RecordedValue="nuwwu" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="tw_sale_amount" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="tw_order_quantity" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="tw_iframe_status" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="tpx_cb" Value="twttr.conversion.loadPixels" RecordedValue="twttr.conversion.loadPixels" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cache_bust" Value="0.45024775395593763" RecordedValue="0.45024775395593763" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="137bc684-7562-45f6-9cb5-6f1cde689a54" Version="1.1" Url="https://ict.infinity-tracking.net/track" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="igrp" Value="1291" RecordedValue="1291" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="vref" Value="https%3A%2F%2Fwww.qa.com%2Flearning" RecordedValue="https%3A%2F%2Fwww.qa.com%2Flearning" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="href" Value="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" RecordedValue="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="d[master]" Value="vid~34af7201-0bed-4b71-a198-0c639061838e" RecordedValue="vid~34af7201-0bed-4b71-a198-0c639061838e" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="d[il1291]" Value="rlt~1515506037~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" RecordedValue="rlt~1515506037~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="d[in1291]" Value="rlt~1515506037~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" RecordedValue="rlt~1515506037~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="c_gua_cid" Value="956889888.1515489418" RecordedValue="956889888.1515489418" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="res" Value="1920x1080" RecordedValue="1920x1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="t" Value="Technical%20IT%20Training%20Courses%20%7C%20Certifications%20%7C%20QA" RecordedValue="Technical%20IT%20Training%20Courses%20%7C%20Certifications%20%7C%20QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ua" Value="39107103" RecordedValue="39107103" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="autoDiscovery" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ts" Value="1515498776" RecordedValue="1515498776" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="c8490b65-64f9-4447-b595-5cd614f437d9" Version="1.1" Url="https://ict.infinity-tracking.net/allocate" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="igrp" Value="1291" RecordedValue="1291" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ictvid" Value="34af7201-0bed-4b71-a198-0c639061838e" RecordedValue="34af7201-0bed-4b71-a198-0c639061838e" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="vref" Value="https%3A%2F%2Fwww.qa.com%2Flearning" RecordedValue="https%3A%2F%2Fwww.qa.com%2Flearning" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="href" Value="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" RecordedValue="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="state" Value="rlt~1515506040~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" RecordedValue="rlt~1515506040~land~2_8583_direct_ca59387525cf05b7e4690244c58b0a08" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="c_gua_cid" Value="956889888.1515489418" RecordedValue="956889888.1515489418" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="t" Value="Technical%20IT%20Training%20Courses%20%7C%20Certifications%20%7C%20QA" RecordedValue="Technical%20IT%20Training%20Courses%20%7C%20Certifications%20%7C%20QA" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="res" Value="1920x1080" RecordedValue="1920x1080" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="nums" Value="03450747999" RecordedValue="03450747999" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ts" Value="1515498776" RecordedValue="1515498776" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="24cc7791-113c-4782-95da-94d9075ae963" Version="1.1" Url="https://trc.taboola.com/sg/rocketfuel-network/1/rtb-h/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://20775074p.rfihub.com/ca.html?rfiidc=1048283198239243303&amp;rfiaid=7d950befd8e743e5bc244531f4f6e7e2&amp;ver=9&amp;rb=29956&amp;ca=20775074&amp;_o=29956&amp;_t=20775074&amp;pe=https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training&amp;pf=https%3A%2F%2Fwww.qa.com%2Flearning&amp;ra=4956948884734672" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="taboola_hm" Value="1048283198239243303" RecordedValue="1048283198239243303" CorrelationBinding="{{QueryStringParam8973.taboola_hm}}" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="24d6114b-e7b5-4c5c-b551-cc888bb68737" Version="1.1" Url="https://vars.hotjar.com/rcj-99d43ead6bdf30da8ed5ffcb4f17100c.html" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="7edaa0c0-db07-4264-b668-9f030435f5c4" Version="1.1" Url="https://20775074p.rfihub.com/ca.html" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+      </Headers>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam12529.taboola_hm" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?taboola_hm=" />
+            <RuleParameter Name="EndsWith" Value="&quot;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+      <QueryStringParameters>
+        <QueryStringParameter Name="rfiidc" Value="1048283198239243303" RecordedValue="1048283198239243303" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rfiaid" Value="fd35b674eb7340f7a2721b7374c93a09" RecordedValue="fd35b674eb7340f7a2721b7374c93a09" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ver" Value="9" RecordedValue="9" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rb" Value="29956" RecordedValue="29956" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ca" Value="20775074" RecordedValue="20775074" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="_o" Value="29956" RecordedValue="29956" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="_t" Value="20775074" RecordedValue="20775074" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pe" Value="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training%2Famazon" RecordedValue="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training%2Famazon" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pf" Value="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" RecordedValue="https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ra" Value="6624061411857713" RecordedValue="6624061411857713" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="a5dbeb05-8438-4a8f-b085-d4421d82a2ce" Version="1.1" Url="https://bid.g.doubleclick.net/xbbe/pixel" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.qa.com/training-courses/technical-it-training/amazon" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="d" Value="KAE" RecordedValue="KAE" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="c22e0956-c168-4fde-8fd9-6fb48079b658" Version="1.1" Url="https://trc.taboola.com/sg/rocketfuel-network/1/rtb-h/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://20775074p.rfihub.com/ca.html?rfiidc=1048283198239243303&amp;rfiaid=fd35b674eb7340f7a2721b7374c93a09&amp;ver=9&amp;rb=29956&amp;ca=20775074&amp;_o=29956&amp;_t=20775074&amp;pe=https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training%2Famazon&amp;pf=https%3A%2F%2Fwww.qa.com%2Ftraining-courses%2Ftechnical-it-training&amp;ra=6624061411857713" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="taboola_hm" Value="1048283198239243303" RecordedValue="1048283198239243303" CorrelationBinding="{{QueryStringParam12529.taboola_hm}}" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+  </Items>
+  <ValidationRules>
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidateResponseUrl, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response URL" Description="Validates that the response URL after redirects are followed is the same as the recorded response URL.  QueryString parameters are ignored." Level="Low" ExectuionOrder="BeforeDependents" />
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidationRuleResponseTimeGoal, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response Time Goal" Description="Validates that the response time for the request is less than or equal to the response time goal as specified on the request.  Response time goals of zero will be ignored." Level="Low" ExectuionOrder="AfterDependents">
+      <RuleParameters>
+        <RuleParameter Name="Tolerance" Value="0" />
+      </RuleParameters>
+    </ValidationRule>
+  </ValidationRules>
+</WebTest>
